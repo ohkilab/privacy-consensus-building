@@ -99,4 +99,5 @@
 
 ## 出典
 [IUIPC]:Malhotra, N. K., Kim, S. S. and Agarwal, J.: Internetusers' information privacy concerns (IUIPC): The construct, the scale, and a causal model, Information systems research, Vol.15, No.4, pp.336-355 (2004).
+
 [IPSA]:Sim, I., Liginlal, D. and Khansa, L.: Information privacysituation awareness: construct and validation, Journal of Computer Information Systems, Vol.53, No.1, pp.57-64 (2012).
