@@ -1,4 +1,4 @@
-Scenario about Behavioral Intention
+Scenario for Behavioral Intention
 ---
 
 You are currently using a video-sharing service such as the following. The contents of this service and the information you registered are as follows.
@@ -17,7 +17,7 @@ The service just announced a new plan. The new plan offers the following additio
 <img src="https://github.com/ohkilab/privacy-consensus-building/blob/master/en/imgs/bi_img03.png?raw=true" width="320">
 
 
-Question items about Behavioral Intention
+Question items for Behavioral Intention
 ---
 ---
 26. Are you likely to provide privacy information regarding this plan change?
