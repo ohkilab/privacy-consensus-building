@@ -1,0 +1,103 @@
+「プライバシー意識の評価」に関する質問項目
+---
+14. I would feel safe giving (the information) to online companies.[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+15. Providing online firms with (the information) would involve many unexpected problems.[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+16.  There would be too much uncertainty associated with giving (the information) to online firms.[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+17. In general, it would be risky to give (the information) to online companies.[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+18. There would be high potential for loss associated with giving (the information) to online firms.[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+19. オンラインプライバシーは、一目瞭然で目立つような開示にすべきである[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+20. オンラインで情報を求めている企業は、データの収集、処理、用途を開示すべきだ[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+21. 私の価値観においては、個人情報がどのように使われるべきにについて理解し、危惧していることは重要である[IUIPC]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+22. 自分は、オンライン上で自分が発信した情報を見ることができる人を把握している[IPSA]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+23. 自分にあったプライバシー設定をするのは、容易であると感じる[IPSA]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+24. 自分のプライバシーを保護するための方法や知識は十分有していると信じている[IPSA]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+25. プライバシー設定を変更することで、自分が発信した情報を見ることができる人を自由に制限することができる[IPSA]
+    - strongly disagree(1)
+    - disagree(2)
+    - somewhat disagree(3)
+    - neither agree nor disagree(4)
+    - somewhat agree(5)
+    - agree(6)
+    - strongly agree(7)
+
+## 出典
+[IUIPC]:Malhotra, N. K., Kim, S. S. and Agarwal, J.: Internetusers' information privacy concerns (IUIPC): The construct, the scale, and a causal model, Information systems research, Vol.15, No.4, pp.336-355 (2004).
+
+[IPSA]:Sim, I., Liginlal, D. and Khansa, L.: Information privacysituation awareness: construct and validation, Journal of Computer Information Systems, Vol.53, No.1, pp.57-64 (2012).
