@@ -1,8 +1,12 @@
-# 便益評価尺度を用いたプライバシー情報開示における合意形成プロセスに関する質問項目
+This repository provides supplementary materials for the paper
 
-- [「便益の評価」に関する質問項目(Q1-13)](benefit.md)
-- [「プライバシー意識の評価」に関する質問項目(Q14-25)](./privacy.md)
-- [「行動意図の評価」に関する質問項目(Q26-29)](./behavioralintention.md)
-- [「サービスの理解度」に関する質問項目(Q31)](./service.md)
-- [「基本情報」に関する質問項目（Q32-Q36)](./demographic.md)
+# An Investigative Study of Consensus-Building Process in Privacy Disclosure Using Benefit Scale
+Yayoi Suganuma, Masakatsu Nishigaki, Tetsushi Ohki
+
+## Abstract
+We investigated a consensus-building process for privacy disclosure between users and service providers focusing on the obtained benefits. In recent researches such as Marian (2014) et al., the purpose is to support appropriate privacy information disclosure by improving users' privacy knowledge. On the other hand, we hypothesized that the privacy disclosure is affected not only by the knowledge about privacy information but also the benefit obtained from the service in exchange for it. In this paper, we developed a benefit scale which measures users' perceived intentions for benefits. In addition, we clarified the relationship between the benefit scale and the privacy disclosure behavior assuming the situation in which a user disclosed privacy information.  Furthermore, we clarified the effect of the intelligibility to the service on the relation.
+
+## Supplementary Materials
+- [Questionnaire Items (English)](./en/)
+- [質問項目 (Japanese)](./ja/)
 
