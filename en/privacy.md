@@ -1,4 +1,4 @@
-Question items about Privacy Concern
+Question items for Privacy Concern
 ---
 14. I would feel safe giving (the information) to online companies.[IUIPC]
     - strongly disagree(1)
