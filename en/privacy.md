@@ -1,4 +1,4 @@
-「プライバシー意識の評価」に関する質問項目
+Question items about Privacy Concern
 ---
 14. I would feel safe giving (the information) to online companies.[IUIPC]
     - strongly disagree(1)
@@ -40,7 +40,7 @@
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-19. オンラインプライバシーは、一目瞭然で目立つような開示にすべきである[IUIPC]
+19. A good consumer online privacy policy should have a clear and conspicuous disclosure.[IUIPC]
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)
@@ -48,7 +48,7 @@
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-20. オンラインで情報を求めている企業は、データの収集、処理、用途を開示すべきだ[IUIPC]
+20. Companies seeking information online should dis- close the way the data are collected, processed, and used.[IUIPC]
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)
@@ -56,7 +56,7 @@
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-21. 私の価値観においては、個人情報がどのように使われるべきにについて理解し、危惧していることは重要である[IUIPC]
+21. It is very important to me that I am aware and knowl- edgeable about how my personal information will be used.[IUIPC]
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)
@@ -64,7 +64,7 @@
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-22. 自分は、オンライン上で自分が発信した情報を見ることができる人を把握している[IPSA]
+22. I know exactly who is able to view my currently shared information online.[IPSA]
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)
@@ -72,7 +72,7 @@
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-23. 自分にあったプライバシー設定をするのは、容易であると感じる[IPSA]
+23. I think privacy control settings that suit me are easy to use.[IPSA]
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)
@@ -80,7 +80,7 @@
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-24. 自分のプライバシーを保護するための方法や知識は十分有していると信じている[IPSA]
+24. I believe I have good knowledge and skills on how to protect my privacy.[IPSA]
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)
@@ -88,7 +88,7 @@
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-25. プライバシー設定を変更することで、自分が発信した情報を見ることができる人を自由に制限することができる[IPSA]
+25. I know how to configure my privacy settings so that only selected people can see my shared information.[IPSA]
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)

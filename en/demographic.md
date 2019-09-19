@@ -1,24 +1,24 @@
-デモグラフィック情報
+Question items about Covariates
 ---
-32. あなたの性別を教えてください
-    - 男性
-    - 女性
-33. あなたの年齢を教えてください
-    - 19歳以下
-    - 20代
-    - 30代
-    - 40代
-    - 50代
-    - 60歳以上
-34. SNSを使用しているか教えてください
-    - 使用しているまたはかつて使用していた
-    - 使用していない
-35. インターネットやスマートフォンの操作にどの程度習熟しているか教えてください
-    - 習熟していない
-    - やや習熟していない
-    - どちらとも言えない
-    - やや習熟している
-    - 習熟している
-36. あなたは、YouTubeを使ったことはありますか？
-    - はい
-    - いいえ
+32. Please tell me your gender.
+    - Male
+    - Female
+33. Please tell me your age.
+    - Under 19
+    - 20’s
+    - 30’s
+    - 40’s
+    - 50’s
+    - 60 over
+34. Please tell me if you use SNS
+    - Using or formerly using
+    - Not using
+35. Please tell us how well you are familiar with Internet and smartphone operations
+    - Very nonproficient
+    - Nonproficient
+    - Neutral
+    - Proficient
+    - Very proficient
+36. Have you ever used YouTube?
+    - Yes
+    - No

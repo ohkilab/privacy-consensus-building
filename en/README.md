@@ -1,8 +1,7 @@
-# 便益評価尺度を用いたプライバシー情報開示における合意形成プロセスに関する質問項目
+# Question items about An Investigative Study of Consensus-Building Process in Privacy Disclosure Using Benefit Scale
 
-- [「便益の評価」に関する質問項目(Q1-13)](benefit.md)
-- [「プライバシー意識の評価」に関する質問項目(Q14-25)](./privacy.md)
-- [「行動意図の評価」に関する質問項目(Q26-29)](./behavioralintention.md)
-- [「サービスの理解度」に関する質問項目(Q31)](./service.md)
-- [「基本情報」に関する質問項目（Q32-Q36)](./demographic.md)
-
+- [ Question items about Perceived Benefit(Q1-13)](benefit.md)
+- [ Question items about Privacy Concern(Q14-25)](./privacy.md)
+- [ Question items about Behavioral Intention(Q26-29)](./behavioralintention.md)
+- [ Question items about Understanding of Services(Q31)](./service.md)
+- [ Question items about Covariates（Q32-Q36)](./demographic.md)
