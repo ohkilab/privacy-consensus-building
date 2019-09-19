@@ -1,4 +1,4 @@
-Question items about Covariates
+Question items for Covariates
 ---
 32. Please tell me your gender.
     - Male
