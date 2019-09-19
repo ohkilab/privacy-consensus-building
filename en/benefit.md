@@ -1,4 +1,4 @@
-Question items about Perceived Benefit
+Question items for Perceived Benefit
 ---
 ---
 1. I feel that there is my place in SNS.
