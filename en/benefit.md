@@ -17,7 +17,7 @@ Question items for Perceived Benefit
     - somewhat agree(5)
     - agree(6)
     - strongly agree(7)
-3. They feel that using SNS and blogs is a way to relieve their daily dissatisfaction Behavioral and stress.
+3. They feel that using SNS and blogs is a way to relieve their daily dissatisfaction behavioral and stress.
     - strongly disagree(1)
     - disagree(2)
     - somewhat disagree(3)
