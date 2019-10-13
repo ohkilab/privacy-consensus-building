@@ -3,18 +3,18 @@
 
 あなたは現在、以下のような動画共有サービスを利用しています。こちらのサービスの内容とあなたが登録した情報は以下のようになっております。
 
-<img src="https://github.com/ohkilab/privacy-consensus-building/blob/master/imgs/bi_Img01.png?raw=true" width="320">
+<img src="https://github.com/ohkilab/privacy-consensus-building/blob/master/ja/imgs/bi_Img01.png?raw=true" width="320">
 
 
 この度、サービスから新しいプランが発表されました。新しいプランのサービスでは、既存のサービスに加え、以下の追加サービスがございます。ただし、プラン変更には追加で以下のような情報を、アカウントに登録していただく必要があります。このことについて、以下の4つの質問にお答えください。(シナリオにより下記いずれかの画像を挿入）
 
 ### シナリオA（便益大のシナリオ）に振り分けられたユーザーには以下の画像を表示
 
-<img src="https://github.com/ohkilab/privacy-consensus-building/blob/master/imgs/bi_img03.png?raw=true" width="320">
+<img src="https://github.com/ohkilab/privacy-consensus-building/blob/master/ja/imgs/bi_img02.png?raw=true" width="320">
 
 ### シナリオB（便益小のシナリオ）に振り分けられたユーザーには以下の画像を表示
 
-<img src="https://github.com/ohkilab/privacy-consensus-building/blob/master/imgs/bi_img02.png?raw=true" width="320">
+<img src="https://github.com/ohkilab/privacy-consensus-building/blob/master/ja/imgs/bi_img03.png?raw=true" width="320">
 
 
 「行動意図の評価」に関する質問項目
